@@ -1,0 +1,4 @@
+# 점검할 GCP 프로젝트 ID를 한 줄에 하나씩 적으세요.
+# 이 파일을 projects.txt로 복사해서 쓰면 됩니다 (projects.txt는 git에 올라가지 않음).
+my-project-id-1
+my-project-id-2
